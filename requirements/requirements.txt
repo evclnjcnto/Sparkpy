@@ -1,0 +1,7 @@
+setuptools
+wheel
+ipython
+pandas
+pyarrow
+numpy
+pyspark
